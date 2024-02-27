@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Cimante
-- 👀 I’m interested in front-end/full-stack development and interface design
-- 🌱 I’m currently learning Vue.js 
-- 💞️ I want to collaborate with a great team to grow and make something special 💪
+- 👀 I’m interested in front-end development and interface design
+- 🌱 Currently learning Vue.js 3
 - 📫 Reach me by email: cloudplaid@yandex.ru
