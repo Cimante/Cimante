@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Cimante
-- 👀 I’m interested in front-end development and interface design
-- 🌱 Currently learning Vue.js 3
-- 📫 Reach me by email: cloudplaid@yandex.ru
+Front-end разработчик, 2+ года на vue.js
+Пробую vue3, typescript, vite, pinia
+Telegram @Cimante
