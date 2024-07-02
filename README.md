@@ -1,6 +1,6 @@
 <section align="center">
 
-  #### :man_technologist: Middle frontend, 2+ года коммерческого опыта на vue и nuxt
+  ### :man_technologist: Middle frontend, 2+ года коммерческого опыта на vue и nuxt
 
   <a href="https://t.me/Cimante">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
