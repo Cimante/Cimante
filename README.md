@@ -1,6 +1,6 @@
-<section align="center">
+<div align="center">
 
-  ### :man_technologist: Middle frontend, 2+ года коммерческого опыта на vue и nuxt
+#### :man_technologist: Middle frontend, 2+ года коммерческого опыта на vue и nuxt
 
   <a href="https://t.me/Cimante">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
@@ -8,7 +8,7 @@
 
   <hr />
 
-  #### :hammer_and_wrench: Инструменты:
+#### :hammer_and_wrench: Инструменты:
 
   <div>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
@@ -42,4 +42,4 @@
   <br /><br />
 
   <img src="https://komarev.com/ghpvc/?username=Cimante&style=flat&color=0abab5" alt=""/>
-</section>
+</div>
